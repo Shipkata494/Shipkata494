@@ -13,7 +13,7 @@
 
 🧠 I specialize in:
 - Headless browser automations
-- E-commerce workflow tools (Shopify, Google Sheets, Make.com)
+- E-commerce workflow tools (Shopify, Google Sheets, Make.com, n8n)
 - Secure session handling (2FA login flows)
 - Custom bots for real-world tasks (mail response, data scraping, etc.)
 
